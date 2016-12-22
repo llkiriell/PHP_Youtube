@@ -2,7 +2,6 @@
 
 //Requeridos
 require('../src/constants.php');
-require('../src/method.class.php');
 require('../src/channel.class.php');
 
 //Envío la constante para inicializar el canal
