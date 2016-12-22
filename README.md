@@ -37,7 +37,7 @@ extension=php_openssl.dll
 ### 3. Generar el API Key
 Se debe crear un [nuevo proyecto](https://console.developers.google.com 'Pincha aquí para ir') y una credencial para obtener la API key. Si ya se tiene la KEY, se deberá ir al fichero __src/constants.php__.
 
-Aquí se encuentran las constantes que se usaron o podrían usarse más adelante. Reemplazar su API KEY en la linea respectiva, así como también el ID del canal de youtube que se desea consultar. Recuerde que la solicitud de datos será con respecto a un canal, no ha un usuario.
+Aquí se encuentran las constantes que se usaron o podrían usarse más adelante. Reemplazar su API KEY en la linea respectiva, así como también el ID del canal de youtube que se desea consultar. Recuerde que la solicitud de datos será con respecto a un canal, no a un usuario.
 
 Por ejemplo:
 
